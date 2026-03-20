@@ -1,0 +1,18 @@
+# Build files
+build/
+*.bin
+*.elf
+*.map
+
+# IDE files
+.vscode/
+.vs/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*~
